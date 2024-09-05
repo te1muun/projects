@@ -1,0 +1,11 @@
+host_identity_verified,neighbourhood group,neighbourhood,lat,long,instant_bookable,cancellation_policy,room type,Construction year,service fee,minimum nights,number of reviews,review rate number,availability 365,price_category
+unconfirmed,Brooklyn,Kensington,40.64749,-73.97237,False,strict,Private room,2020,193.0,10.0,9.0,4.0,286.0,Expensive
+verified,Manhattan,Midtown,40.75362,-73.98377,False,moderate,Entire home/apt,2007,28.0,30.0,45.0,4.0,228.0,Cheap
+unconfirmed,Brooklyn,Clinton Hill,40.68514,-73.95976,True,moderate,Entire home/apt,2005,74.0,30.0,270.0,4.0,322.0,Cheap
+verified,Manhattan,East Harlem,40.79851,-73.94399,False,moderate,Entire home/apt,2009,41.0,10.0,9.0,3.0,289.0,Cheap
+verified,Manhattan,Murray Hill,40.74767,-73.975,True,flexible,Entire home/apt,2013,115.0,3.0,74.0,3.0,374.0,Medium
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68688,-73.95596,False,moderate,Private room,2009,212.0,45.0,49.0,5.0,219.0,Expensive
+verified,Manhattan,Hell's Kitchen,40.76489,-73.98493,True,strict,Private room,2005,204.0,2.0,430.0,3.0,180.0,Expensive
+unconfirmed,Manhattan,Upper West Side,40.80178,-73.96723,False,strict,Private room,2015,58.0,2.0,118.0,5.0,375.0,Cheap
+verified,Manhattan,Chinatown,40.71344,-73.99037,False,flexible,Entire home/apt,2004,64.0,1.0,160.0,3.0,1.0,Cheap
+verified,Manhattan,Upper West Side,40.80316,-73.96545,True,flexible,Entire home/apt,2008,121.0,5.0,53.0,4.0,163.0,Medium
